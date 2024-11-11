@@ -1,4 +1,4 @@
-# Anthropic Computer Use Demo
+# Anthropic Computer Use Demo Complete Code
 
 This repository contains the complete code behind the **Anthropic Computer Use Demo**, an AI-driven agent that can control your computer through simulated mouse and keyboard inputs. The project was reverse-engineered to allow users to explore and interact with an AI agent for computer control. Below are the details on the demo setup, key files, API options, and tool actions.
 
