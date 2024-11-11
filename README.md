@@ -1,7 +1,3 @@
-To include the screenshot in the README, you can add a relative path to the image file in the markdown. Here’s an updated version of the README with the image embedded.
-
----
-
 # Anthropic Computer Use Demo
 
 This repository contains the complete code behind the **Anthropic Computer Use Demo**, an AI-driven agent that can control your computer through simulated mouse and keyboard inputs. The project was reverse-engineered to allow users to explore and interact with an AI agent for computer control. Below are the details on the demo setup, key files, API options, and tool actions.
@@ -86,7 +82,3 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## Contributing
 
 Feel free to open issues and submit pull requests for improvements or feature requests.
-
----
-
-To display the image in the README, ensure that the `UI_screenshot.png` file is located in the root directory of the repository. If it's in a subdirectory, update the path accordingly. Let me know if you'd like further customization!
